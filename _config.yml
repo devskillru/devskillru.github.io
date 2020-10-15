@@ -1,0 +1,8 @@
+# Handling Reading
+exclude:
+  - CNAME
+  - package.json
+  - package-lock.json
+  - gulpfile.js
+  - node_modules
+  - js/main.js
